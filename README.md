@@ -1,4 +1,6 @@
-#Diabetes Prediction App
+## Diabetes Prediction App
+
+
 This repository contains a Diabetes Prediction App built using machine learning techniques. The app predicts the likelihood of a person having diabetes based on several health metrics such as glucose levels, BMI, blood pressure, and age. It utilizes a machine learning model trained on a dataset of known diabetes cases to make predictions.
 
 Features
